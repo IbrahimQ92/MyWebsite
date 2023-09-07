@@ -1,5 +1,5 @@
 html {
-	background-image: url('background.jpg');
+	background-image: url('img.jpeg');
 }
 body {
 
@@ -10,18 +10,18 @@ body {
 }
 
 #container {
-	background-color:#3e91c1;
+	background-color:black;
 	width: 800px;
 	margin-left:auto;
 	margin-right:auto;
-	background-image: url('background.jpg');
+	background-image: 
 
 
 
 }
 
 #header {
-	background-image: url('background.jpg');
+	background-image:; 
 	color:white;
 	text-align:center;
 	padding: 10px;
@@ -46,7 +46,7 @@ h1, h2, h3 h4 {
 }
 
 #nav {
-width: 160px;
+width: 170px;
 float:left;
 color:white;
 
@@ -74,7 +74,7 @@ a {
 	width: 600px;
 	float:right;
 	color:white;
-	background-color:6A94A8;
+	background-color:;
 }
 
 #footer {
