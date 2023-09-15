@@ -121,3 +121,8 @@ a {
       display: block;
   }
 }
+
+.Options{
+	font-size: small;
+	margin-left: 10px;
+}
